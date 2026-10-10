@@ -8,4 +8,4 @@ This is the chronological order of the directories:
 1. C
 2. C++
 3. Python and Processing
-4. Parallel Programming
+4. Concurrent Programming
